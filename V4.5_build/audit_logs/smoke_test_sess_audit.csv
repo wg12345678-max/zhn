@@ -1,0 +1,13 @@
+﻿type,timestamp,session_id,step_no,action,params,result,duration_seconds,rule_name,deduction,decision_name,value,reasoning,event_name,student_response,outcome
+step,2026-10-16T12:08:38.838441,smoke_test_sess,1.0,测试步骤,{'k': 'v'},{},,,,,,,,,
+rule_hit,2026-10-16T12:08:38.936540,smoke_test_sess,,,,,,test,5.0,,,,,,
+decision,2026-10-16T12:08:38.992875,smoke_test_sess,,,,,,,,脱敏,掩码,,,,
+random_event,2026-10-16T12:08:39.068460,smoke_test_sess,,,,,,,,,,,数据泄露,召回,合规-5
+step,2026-10-16T12:09:01.784515,smoke_test_sess,1.0,测试步骤,{'k': 'v'},{},,,,,,,,,
+rule_hit,2026-10-16T12:09:01.858049,smoke_test_sess,,,,,,test,5.0,,,,,,
+decision,2026-10-16T12:09:01.923972,smoke_test_sess,,,,,,,,脱敏,掩码,,,,
+random_event,2026-10-16T12:09:02.007170,smoke_test_sess,,,,,,,,,,,数据泄露,召回,合规-5
+step,2026-10-16T12:09:13.989112,smoke_test_sess,1.0,测试步骤,{'k': 'v'},{},,,,,,,,,
+rule_hit,2026-10-16T12:09:14.102256,smoke_test_sess,,,,,,test,5.0,,,,,,
+decision,2026-10-16T12:09:14.194622,smoke_test_sess,,,,,,,,脱敏,掩码,,,,
+random_event,2026-10-16T12:09:14.323291,smoke_test_sess,,,,,,,,,,,数据泄露,召回,合规-5

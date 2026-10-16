@@ -1,0 +1,12 @@
+{"type": "step", "timestamp": "2026-10-16T12:08:38.838441", "session_id": "smoke_test_sess", "step_no": 1, "action": "测试步骤", "params": {"k": "v"}, "result": {}, "duration_seconds": null}
+{"type": "rule_hit", "timestamp": "2026-10-16T12:08:38.936540", "session_id": "smoke_test_sess", "rule_name": "test", "deduction": 5}
+{"type": "decision", "timestamp": "2026-10-16T12:08:38.992875", "session_id": "smoke_test_sess", "decision_name": "脱敏", "value": "掩码", "reasoning": null}
+{"type": "random_event", "timestamp": "2026-10-16T12:08:39.068460", "session_id": "smoke_test_sess", "event_name": "数据泄露", "student_response": "召回", "outcome": "合规-5"}
+{"type": "step", "timestamp": "2026-10-16T12:09:01.784515", "session_id": "smoke_test_sess", "step_no": 1, "action": "测试步骤", "params": {"k": "v"}, "result": {}, "duration_seconds": null}
+{"type": "rule_hit", "timestamp": "2026-10-16T12:09:01.858049", "session_id": "smoke_test_sess", "rule_name": "test", "deduction": 5}
+{"type": "decision", "timestamp": "2026-10-16T12:09:01.923972", "session_id": "smoke_test_sess", "decision_name": "脱敏", "value": "掩码", "reasoning": null}
+{"type": "random_event", "timestamp": "2026-10-16T12:09:02.007170", "session_id": "smoke_test_sess", "event_name": "数据泄露", "student_response": "召回", "outcome": "合规-5"}
+{"type": "step", "timestamp": "2026-10-16T12:09:13.989112", "session_id": "smoke_test_sess", "step_no": 1, "action": "测试步骤", "params": {"k": "v"}, "result": {}, "duration_seconds": null}
+{"type": "rule_hit", "timestamp": "2026-10-16T12:09:14.102256", "session_id": "smoke_test_sess", "rule_name": "test", "deduction": 5}
+{"type": "decision", "timestamp": "2026-10-16T12:09:14.194622", "session_id": "smoke_test_sess", "decision_name": "脱敏", "value": "掩码", "reasoning": null}
+{"type": "random_event", "timestamp": "2026-10-16T12:09:14.323291", "session_id": "smoke_test_sess", "event_name": "数据泄露", "student_response": "召回", "outcome": "合规-5"}
